@@ -1,0 +1,19 @@
+{
+  "name": "ko-energy",
+  "version": "1.0.0",
+  "description": "KO Energy static website",
+  "main": "index.html",
+  "scripts": {
+    "dev": "live-server ."
+  },
+  "keywords": [
+    "wind",
+    "energy",
+    "clean"
+  ],
+  "author": "KO Energy",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
